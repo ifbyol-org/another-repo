@@ -1,2 +1,2 @@
 # another-repo
-A test repository
+A repository
